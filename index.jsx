@@ -1,6 +1,9 @@
-import { createRoot} from 'react-dom/client';
-import React from 'react'; 
+import React from "react";
+import { createRoot } from "react-dom/client";
 
-const root = createRoot(document.getElementById("root"));
+// Quick runtime check
+console.log("index.jsx loaded");
 
-root.render(<h1>Hello World</h1>)
+const root = createRoot(document.querySelector("#root"));
+
+root.render(<h1>Hello, Jaime!</h1>);
