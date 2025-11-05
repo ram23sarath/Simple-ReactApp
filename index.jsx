@@ -4,5 +4,5 @@ import React from "react";
 const root = createRoot(document.getElementById("root"))
 
 root.render(
-    <img src="react.png" />
+    <img src="react-logo.svg" />
 )
