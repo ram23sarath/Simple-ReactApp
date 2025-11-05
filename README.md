@@ -1,4 +1,4 @@
-# Ned — Minimal React + Vite App
+Minimal React + Vite App
 
 Small demo React app using Vite for local development. This repository contains a tiny app that renders a single component into `#root`.
 
